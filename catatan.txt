@@ -1,0 +1,6 @@
+Karena terjadi error seperti pada gambar yang terlampir maka file sql dan folder project php disimpan di google drive:
+https://drive.google.com/file/d/1RSfIzJ10Vf5CcSBYBEJxS2GovblDn1gt/view?usp=sharing
+
+--database
+username : admin
+password : password
